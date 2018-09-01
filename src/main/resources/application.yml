@@ -1,0 +1,12 @@
+guru:
+  jms:
+    username: j
+    password: m
+    dburl: s
+#--- separate file
+---
+spring:
+  profiles: de
+guru:
+  jms:
+    username: de_j
